@@ -22,6 +22,7 @@ export enum JobMode {
   FullTime = 'full-time',
   PartTime = 'part-time',
   Internship = 'internship',
+  Contract = 'contract',
 }
 
 // Enums in TypeScript are a special type that allows you to define
